@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>691142651728-pfs7946t91m7n4ertfmcs6pukl2kd5e2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.691142651728-pfs7946t91m7n4ertfmcs6pukl2kd5e2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj2-bKUp-BSRAaZq8OZbdWgY-ZLu_EguQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>691142651728</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nickpuchko.ChessAggregator</string>
+	<key>PROJECT_ID</key>
+	<string>chessaggregator</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chessaggregator.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:691142651728:ios:18fa1e83dddd8a83eec655</string>
+	<key>DATABASE_URL</key>
+	<string>https://chessaggregator.firebaseio.com</string>
+</dict>
+</plist>

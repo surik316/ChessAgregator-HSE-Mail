@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e8e123f-89a5-4081-ad75-a83469c89bd8" name="Default Changelist" comment="add new interface">
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/AppCoordinator/AppCoordinator.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/AppCoordinator/AppCoordinator.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/AppCoordinator/AuthCoordinator/AuthCoordinatorProtocols.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/AppCoordinator/AuthCoordinator/AuthCoordinatorProtocols.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/AppCoordinator/ChessAppCoordinator/ChessAppCoordinator.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/AppCoordinator/ChessAppCoordinator/ChessAppCoordinator.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/AuthNew/AuthPresenter.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/AuthNew/AuthPresenter.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/AuthNew/AuthProtocols.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/AuthNew/AuthProtocols.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/AuthNew/AuthViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/AuthNew/AuthViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/PhoneNumberRegistration/PhoneNumberRegistrationViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/PhoneNumberRegistration/PhoneNumberRegistrationViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/PhoneNumberRegistration/Views/PhoneNumberRegistrationView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/PhoneNumberRegistration/Views/PhoneNumberRegistrationView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/SearchTournaments/SearchTournamentsRouter.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/SearchTournaments/SearchTournamentsRouter.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfilePresenter.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfilePresenter.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfileProtocols.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfileProtocols.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfileRouter.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfileRouter.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfileViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/UserProfile/UserProfileViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/UserRegistration/UserRegistrationContainer.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/UserRegistration/UserRegistrationContainer.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/UserRegistration/UserRegistrationInteractor.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/UserRegistration/UserRegistrationInteractor.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessAggregator/Modules/UserRegistration/Views/UserRegistrationPlayerView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ChessAggregator/Modules/UserRegistration/Views/UserRegistrationPlayerView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_B20006BA-38C0-4B5B-80ED-905C2471D544" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lBxTRWdnTemVPi75csiNLiOVQA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="ChessAggregator" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ChessAggregator" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ChessAggregator" TARGET_NAME="ChessAggregator" CONFIG_NAME="Debug" SCHEME_NAME="ChessAggregator" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="ChessAggregator" RUN_TARGET_NAME="ChessAggregator" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e8e123f-89a5-4081-ad75-a83469c89bd8" name="Default Changelist" comment="" />
+      <created>1607084293776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607084293776</updated>
+      <workItem from="1607084294929" duration="22080000" />
+      <workItem from="1607251835337" duration="374000" />
+      <workItem from="1607258731662" duration="615000" />
+      <workItem from="1607287933555" duration="214000" />
+      <workItem from="1607331133462" duration="24000" />
+      <workItem from="1607331170948" duration="1515000" />
+      <workItem from="1607333343099" duration="2044000" />
+      <workItem from="1607341864500" duration="935000" />
+      <workItem from="1607342839988" duration="5523000" />
+      <workItem from="1607424317332" duration="12985000" />
+      <workItem from="1607453972473" duration="253000" />
+      <workItem from="1607863446953" duration="11958000" />
+      <workItem from="1607888196328" duration="4223000" />
+      <workItem from="1607933659000" duration="5771000" />
+      <workItem from="1607957691432" duration="442000" />
+      <workItem from="1608651276434" duration="183000" />
+      <workItem from="1609066099449" duration="494000" />
+      <workItem from="1609089711675" duration="6607000" />
+      <workItem from="1609873225543" duration="66000" />
+      <workItem from="1610046658256" duration="960000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added auth and regisration">
+      <created>1607259119154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607259119154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added forgot password">
+      <created>1607426010149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607426010149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added dateformatter">
+      <created>1607439312188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607439312188</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add new interface">
+      <created>1610047264634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610047264634</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added auth and regisration" />
+    <MESSAGE value="added forgot password" />
+    <MESSAGE value="added dateformatter" />
+    <MESSAGE value="add new interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new interface" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1138" height="87" key="GridCell.Tab.0.bottom" timestamp="1607942959281">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607101130874" />
+    <state width="1138" height="87" key="GridCell.Tab.0.bottom/0.25.1440.806@0.25.1440.806" timestamp="1607942959281" />
+    <state width="1172" height="87" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1607454232774" />
+    <state width="1194" height="254" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1607351106344" />
+    <state width="1138" height="87" key="GridCell.Tab.0.center" timestamp="1607942959280">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607101130872" />
+    <state width="1138" height="87" key="GridCell.Tab.0.center/0.25.1440.806@0.25.1440.806" timestamp="1607942959280" />
+    <state width="1172" height="87" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1607454232774" />
+    <state width="1194" height="254" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1607351106343" />
+    <state width="1138" height="87" key="GridCell.Tab.0.left" timestamp="1607942959280">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607101130871" />
+    <state width="1138" height="87" key="GridCell.Tab.0.left/0.25.1440.806@0.25.1440.806" timestamp="1607942959280" />
+    <state width="1172" height="87" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1607454232774" />
+    <state width="1194" height="254" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1607351106342" />
+    <state width="1138" height="87" key="GridCell.Tab.0.right" timestamp="1607942959280">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607101130873" />
+    <state width="1138" height="87" key="GridCell.Tab.0.right/0.25.1440.806@0.25.1440.806" timestamp="1607942959280" />
+    <state width="1172" height="87" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1607454232774" />
+    <state width="1194" height="254" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1607351106343" />
+    <state x="144" y="75" key="MergeDialog" timestamp="1609095773575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="75" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1609095773575" />
+    <state x="144" y="92" key="MergeDialog/0.25.1440.806@0.25.1440.806" timestamp="1607436872154" />
+    <state x="358" y="193" key="MultipleFileMergeDialog" timestamp="1607436872208">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="358" y="193" key="MultipleFileMergeDialog/0.25.1440.806@0.25.1440.806" timestamp="1607436872208" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607439317682">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.806@0.25.1440.806" timestamp="1607439317682" />
+    <state x="521" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607439204675">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="521" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.806@0.25.1440.806" timestamp="1607439204675" />
+    <state x="207" y="134" key="git4idea.branch.GitSmartOperationDialog" timestamp="1609095741486">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="207" y="134" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1609095741486" />
+    <state x="207" y="145" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.806@0.25.1440.806" timestamp="1607436770162" />
+    <state x="385" y="192" key="run.anything.popup" timestamp="1607937438981">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="385" y="192" key="run.anything.popup/0.25.1440.806@0.25.1440.806" timestamp="1607937438981" />
+  </component>
+</project>
