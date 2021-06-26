@@ -17,10 +17,10 @@
 Внедрить ML для скана бланков о результатах партий
 Начать сотрудничество с федерацией шахмат России
 ### Писали
-@NickPuchko
-@surik316
-@ILoveEatingFF
-@madeira33
+* @NickPuchko
+* @surik316
+* @ILoveEatingFF
+* @madeira33
 ---
 ## Запуск
     git clone https://github.com/surik316/ChessAgregator-HSE-Mail-.git
